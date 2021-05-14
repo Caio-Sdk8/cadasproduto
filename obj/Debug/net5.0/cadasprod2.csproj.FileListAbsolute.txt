@@ -1,0 +1,16 @@
+C:\Users\caio0\OneDrive\Documentos\cadasprod2\bin\Debug\net5.0\cadasprod2.exe
+C:\Users\caio0\OneDrive\Documentos\cadasprod2\bin\Debug\net5.0\cadasprod2.deps.json
+C:\Users\caio0\OneDrive\Documentos\cadasprod2\bin\Debug\net5.0\cadasprod2.runtimeconfig.json
+C:\Users\caio0\OneDrive\Documentos\cadasprod2\bin\Debug\net5.0\cadasprod2.runtimeconfig.dev.json
+C:\Users\caio0\OneDrive\Documentos\cadasprod2\bin\Debug\net5.0\cadasprod2.dll
+C:\Users\caio0\OneDrive\Documentos\cadasprod2\bin\Debug\net5.0\ref\cadasprod2.dll
+C:\Users\caio0\OneDrive\Documentos\cadasprod2\bin\Debug\net5.0\cadasprod2.pdb
+C:\Users\caio0\OneDrive\Documentos\cadasprod2\obj\Debug\net5.0\cadasprod2.csprojAssemblyReference.cache
+C:\Users\caio0\OneDrive\Documentos\cadasprod2\obj\Debug\net5.0\cadasprod2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caio0\OneDrive\Documentos\cadasprod2\obj\Debug\net5.0\cadasprod2.AssemblyInfoInputs.cache
+C:\Users\caio0\OneDrive\Documentos\cadasprod2\obj\Debug\net5.0\cadasprod2.AssemblyInfo.cs
+C:\Users\caio0\OneDrive\Documentos\cadasprod2\obj\Debug\net5.0\cadasprod2.csproj.CoreCompileInputs.cache
+C:\Users\caio0\OneDrive\Documentos\cadasprod2\obj\Debug\net5.0\cadasprod2.dll
+C:\Users\caio0\OneDrive\Documentos\cadasprod2\obj\Debug\net5.0\ref\cadasprod2.dll
+C:\Users\caio0\OneDrive\Documentos\cadasprod2\obj\Debug\net5.0\cadasprod2.pdb
+C:\Users\caio0\OneDrive\Documentos\cadasprod2\obj\Debug\net5.0\cadasprod2.genruntimeconfig.cache
